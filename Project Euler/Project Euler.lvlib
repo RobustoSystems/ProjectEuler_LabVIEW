@@ -104,7 +104,6 @@
 		<Item Name="Problem 17 - Number letter counts.vi" Type="VI" URL="../Problem 17 - Number letter counts.vi"/>
 	</Item>
 	<Item Name="Problem 18 - Maximum path sum I" Type="Folder">
-		<Item Name="subVIs" Type="Folder"/>
 		<Item Name="typedefs" Type="Folder">
 			<Item Name="triangle_node.ctl" Type="VI" URL="../triangle_node.ctl"/>
 		</Item>
@@ -123,7 +122,6 @@
 		<Item Name="Problem 19 - Counting Sundays.vi" Type="VI" URL="../Problem 19 - Counting Sundays.vi"/>
 	</Item>
 	<Item Name="Problem 20 - Factorial digit sum" Type="Folder">
-		<Item Name="subVIs" Type="Folder"/>
 		<Item Name="Problem 20 - Factorial digit sum.vi" Type="VI" URL="../Problem 20 - Factorial digit sum.vi"/>
 	</Item>
 	<Item Name="Problem 67 - Maximum path sum II" Type="Folder">
