@@ -129,5 +129,5 @@
 	<Item Name="Problem 67 - Maximum path sum II" Type="Folder">
 		<Item Name="Problem 67 - Maximum path sum II.vi" Type="VI" URL="../Problem 67 - Maximum path sum II.vi"/>
 	</Item>
-	<Item Name="New Problem Template.vi" Type="VI" URL="../../New Problem Template.vi"/>
+	<Item Name="New Problem Template.vi" Type="VI" URL="../New Problem Template.vi"/>
 </Library>
